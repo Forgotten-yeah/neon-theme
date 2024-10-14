@@ -1,0 +1,21 @@
+{
+  "name": "theme",
+  "displayName": "Neon Theme",
+  "description": "Theme for VSCode.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Green Tea Theme-color-theme.json"
+      }
+    ]
+  }
+}
